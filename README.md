@@ -8,4 +8,4 @@ Here it is.
 Taken using decompiler.
 
 This is only the source for the GUI, as the emulator itself seems to be wrapped up in core .SO files (but seperately
-compiled for each platform).
+compiled for each platform). It will take more work to decompile those.
